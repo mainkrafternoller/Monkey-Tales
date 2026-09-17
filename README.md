@@ -225,3 +225,6 @@ Monkey Tales is offered as a full free version with all features and updates inc
 ---
 
 Start your child's educational journey today with Monkey Tales—download now and experience the joy of learning through play!
+
+---
+**Last updated:** 2026-09-17 00:11:13 UTC
